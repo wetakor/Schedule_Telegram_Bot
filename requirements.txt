@@ -1,0 +1,4 @@
+schedule~=1.2.1
+telebot~=0.0.5
+beautifulsoup4~=4.12.2
+requests~=2.28.2
