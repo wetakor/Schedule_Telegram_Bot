@@ -17,7 +17,7 @@ A simple bot for telegram to view the schedule of Kirov Aviation Technical Schoo
 
 ## Установка
 
-1. Клонируйте репозиторий: `git clone https://github.com/wetakor/Schedule_Telegram_Bot.git`
+1. Клонируйте репозиторий: `git clone https://github.com/ementacity/Schedule_Telegram_Bot.git`
 2. Перейдите в директорию проекта: `cd lolbot`
 3. Установите зависимости: `pip install -r requirements.txt`
 
